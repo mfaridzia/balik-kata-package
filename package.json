@@ -1,0 +1,22 @@
+{
+  "name": "balik-kata",
+  "version": "1.0.0",
+  "description": "a simple package to reverse text",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfaridzia/balik-kata-package.git"
+  },
+  "keywords": [
+    "reverse-text"
+  ],
+  "author": "Muhammad Farid Zia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfaridzia/balik-kata-package/issues"
+  },
+  "homepage": "https://github.com/mfaridzia/balik-kata-package#readme"
+}
